@@ -1,0 +1,17 @@
+[
+  {"Date": "2026-06-01", "City": "Gotham", "Temperature": 22.4, "Humidity": 62, "WindSpeed": 14.5, "Pressure": 1012, "Condition": "Sunny"},
+  {"Date": "2026-06-02", "City": "Gotham", "Temperature": 23.1, "Humidity": 59, "WindSpeed": 12.0, "Pressure": 1014, "Condition": "Sunny"},
+  {"Date": "2026-06-03", "City": "Gotham", "Temperature": 21.8, "Humidity": 65, "WindSpeed": 18.2, "Pressure": 1010, "Condition": "Cloudy"},
+  {"Date": "2026-06-04", "City": "Gotham", "Temperature": 19.5, "Humidity": 80, "WindSpeed": 22.1, "Pressure": 1008, "Condition": "Rainy"},
+  {"Date": "2026-06-05", "City": "Gotham", "Temperature": 18.0, "Humidity": 88, "WindSpeed": 25.0, "Pressure": 1005, "Condition": "Rainy"},
+  {"Date": "2026-06-06", "City": "Gotham", "Temperature": 20.2, "Humidity": 72, "WindSpeed": 15.4, "Pressure": 1009, "Condition": "Cloudy"},
+  {"Date": "2026-06-07", "City": "Gotham", "Temperature": 22.0, "Humidity": 60, "WindSpeed": 11.8, "Pressure": 1013, "Condition": "Sunny"},
+  {"Date": "2026-06-08", "City": "Gotham", "Temperature": 24.5, "Humidity": 55, "WindSpeed": 9.5, "Pressure": 1015, "Condition": "Sunny"},
+  {"Date": "2026-06-09", "City": "Gotham", "Temperature": 25.0, "Humidity": 53, "WindSpeed": 10.2, "Pressure": 1014, "Condition": "Sunny"},
+  {"Date": "2026-06-10", "City": "Gotham", "Temperature": 23.8, "Humidity": 58, "WindSpeed": 13.0, "Pressure": 1012, "Condition": "Cloudy"},
+  {"Date": "2026-06-11", "City": "Gotham", "Temperature": 21.5, "Humidity": 70, "WindSpeed": 16.5, "Pressure": 1009, "Condition": "Cloudy"},
+  {"Date": "2026-06-12", "City": "Gotham", "Temperature": 19.0, "Humidity": 85, "WindSpeed": 20.4, "Pressure": 1007, "Condition": "Rainy"},
+  {"Date": "2026-06-13", "City": "Gotham", "Temperature": 20.5, "Humidity": 78, "WindSpeed": 14.2, "Pressure": 1011, "Condition": "Cloudy"},
+  {"Date": "2026-06-14", "City": "Gotham", "Temperature": 22.8, "Humidity": 64, "WindSpeed": 11.0, "Pressure": 1013, "Condition": "Sunny"},
+  {"Date": "2026-06-15", "City": "Gotham", "Temperature": 24.0, "Humidity": 60, "WindSpeed": 8.7, "Pressure": 1015, "Condition": "Sunny"}
+]

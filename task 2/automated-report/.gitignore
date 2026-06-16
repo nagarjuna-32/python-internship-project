@@ -1,0 +1,24 @@
+# Python build and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+ENV/
+.env
+
+# Project specific: temporary upload and report outputs
+uploads/*
+!uploads/.gitkeep
+*.pdf
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

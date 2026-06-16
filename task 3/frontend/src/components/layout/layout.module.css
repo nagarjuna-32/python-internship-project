@@ -1,0 +1,108 @@
+.shell{
+  min-height:100vh;
+  display:flex;
+}
+
+.sidebar{
+  width:280px;
+  padding:18px;
+  border-right:1px solid rgba(255,255,255,.06);
+  background: rgba(15,27,51,.55);
+  backdrop-filter: blur(8px);
+  position: sticky;
+  top:0;
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  gap:18px;
+}
+
+.sidebarCollapsed{ width:92px; }
+
+.sidebarHeader{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.brandMark{
+  width:36px;
+  height:36px;
+  border-radius:14px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background: rgba(124,58,237,.18);
+  border:1px solid rgba(124,58,237,.4);
+}
+.brandText{ flex:1; }
+.brandTitle{ font-weight:800; letter-spacing:.02em; font-size:14px; }
+.brandSub{ font-size:12px; color:var(--muted); margin-top:2px; }
+
+.iconBtn{
+  width:36px; height:36px;
+  border-radius:12px;
+  border:1px solid var(--border);
+  background: rgba(255,255,255,.06);
+  color:var(--text);
+  cursor:pointer;
+  display:flex; align-items:center; justify-content:center;
+}
+
+.nav{ display:flex; flex-direction:column; gap:8px; }
+.navItem{
+  padding:10px 12px;
+  border-radius:14px;
+  border:1px solid transparent;
+  display:flex;
+  align-items:center;
+  gap:10px;
+  color:var(--muted);
+}
+.navItemActive{
+  border-color: rgba(124,58,237,.55);
+  background: rgba(124,58,237,.18);
+  color: var(--text);
+}
+.navLabel{ white-space:nowrap; }
+
+.sidebarCollapsed .navLabel{ display:none; }
+.sidebarCollapsed .brandText{ display:none; }
+
+.sidebarFooter{ margin-top:auto; }
+.logoutBtn{
+  width:100%;
+  padding:12px 12px;
+  border-radius:14px;
+  border:1px solid rgba(255,255,255,.08);
+  background: rgba(255,255,255,.04);
+  color:var(--muted);
+  cursor:pointer;
+  display:flex; gap:10px; align-items:center;
+}
+
+.main{ flex:1; display:flex; flex-direction:column; }
+.topbar{
+  padding:18px 18px 12px 18px;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:16px;
+}
+.pageTitle{ font-size:18px; font-weight:800; }
+.pageHint{ margin-top:4px; color:var(--muted); font-size:13px; }
+
+.content{
+  padding:0 18px 26px 18px;
+}
+
+@media (max-width: 900px){
+  .sidebar{ width:240px; }
+}
+
+@media (max-width: 760px){
+  .sidebar{ position: fixed; left:0; top:0; z-index:10; transform: translateX(-110%); transition: transform .2s ease; }
+  .sidebarCollapsed{ transform: translateX(-110%); }
+  .shell{ display:block; }
+  .main{ margin-left:0; }
+}
+

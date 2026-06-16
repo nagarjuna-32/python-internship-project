@@ -1,0 +1,461 @@
+[
+  {
+    "student_id": "STU1001",
+    "name": "James Davis",
+    "grade_level": "11th",
+    "math_score": 69,
+    "science_score": 98,
+    "english_score": 87,
+    "attendance_rate": 0.8572
+  },
+  {
+    "student_id": "STU1002",
+    "name": "Noah Martinez",
+    "grade_level": "11th",
+    "math_score": 98,
+    "science_score": 68,
+    "english_score": 71,
+    "attendance_rate": 0.9736
+  },
+  {
+    "student_id": "STU1003",
+    "name": "Mia Smith",
+    "grade_level": "11th",
+    "math_score": 83,
+    "science_score": 62,
+    "english_score": 88,
+    "attendance_rate": 0.9445
+  },
+  {
+    "student_id": "STU1004",
+    "name": "Liam Jones",
+    "grade_level": "11th",
+    "math_score": 81,
+    "science_score": 71,
+    "english_score": 77,
+    "attendance_rate": 0.8425
+  },
+  {
+    "student_id": "STU1005",
+    "name": "Isabella Garcia",
+    "grade_level": "11th",
+    "math_score": 65,
+    "science_score": 76,
+    "english_score": 95,
+    "attendance_rate": 0.9845
+  },
+  {
+    "student_id": "STU1006",
+    "name": "Ava Garcia",
+    "grade_level": "9th",
+    "math_score": 84,
+    "science_score": 64,
+    "english_score": 74,
+    "attendance_rate": 0.9482
+  },
+  {
+    "student_id": "STU1007",
+    "name": "Noah Miller",
+    "grade_level": "11th",
+    "math_score": 60,
+    "science_score": 85,
+    "english_score": 65,
+    "attendance_rate": 0.865
+  },
+  {
+    "student_id": "STU1008",
+    "name": "Liam Davis",
+    "grade_level": "11th",
+    "math_score": 98,
+    "science_score": 76,
+    "english_score": 89,
+    "attendance_rate": 0.9598
+  },
+  {
+    "student_id": "STU1009",
+    "name": "Oliver Johnson",
+    "grade_level": "10th",
+    "math_score": 85,
+    "science_score": 61,
+    "english_score": 100,
+    "attendance_rate": 0.8758
+  },
+  {
+    "student_id": "STU1010",
+    "name": "James Brown",
+    "grade_level": "9th",
+    "math_score": 95,
+    "science_score": 89,
+    "english_score": 84,
+    "attendance_rate": 0.9304
+  },
+  {
+    "student_id": "STU1011",
+    "name": "Liam Williams",
+    "grade_level": "9th",
+    "math_score": 57,
+    "science_score": 79,
+    "english_score": 96,
+    "attendance_rate": 0.8397
+  },
+  {
+    "student_id": "STU1012",
+    "name": "Noah Rodriguez",
+    "grade_level": "10th",
+    "math_score": null,
+    "science_score": 89,
+    "english_score": 88,
+    "attendance_rate": 0.934
+  },
+  {
+    "student_id": "STU1013",
+    "name": "Benjamin Rodriguez",
+    "grade_level": "12th",
+    "math_score": 92,
+    "science_score": 69,
+    "english_score": 91,
+    "attendance_rate": 0.9313
+  },
+  {
+    "student_id": "STU1014",
+    "name": "Elijah Martinez",
+    "grade_level": "12th",
+    "math_score": 72,
+    "science_score": 62,
+    "english_score": 88,
+    "attendance_rate": 0.8569
+  },
+  {
+    "student_id": "STU1015",
+    "name": "Elijah Brown",
+    "grade_level": "11th",
+    "math_score": 61,
+    "science_score": 83,
+    "english_score": 99,
+    "attendance_rate": 0.9733
+  },
+  {
+    "student_id": "STU1016",
+    "name": "Mia Garcia",
+    "grade_level": "9th",
+    "math_score": 80,
+    "science_score": 77,
+    "english_score": 77,
+    "attendance_rate": 0.9846
+  },
+  {
+    "student_id": "STU1017",
+    "name": "Elijah Johnson",
+    "grade_level": "10th",
+    "math_score": 96,
+    "science_score": 100,
+    "english_score": 66,
+    "attendance_rate": 0.8286
+  },
+  {
+    "student_id": "STU1018",
+    "name": "Oliver Brown",
+    "grade_level": "10th",
+    "math_score": 91,
+    "science_score": 73,
+    "english_score": 69,
+    "attendance_rate": 0.9611
+  },
+  {
+    "student_id": "STU1019",
+    "name": "Isabella Brown",
+    "grade_level": "10th",
+    "math_score": 69,
+    "science_score": 81,
+    "english_score": 74,
+    "attendance_rate": 0.9541
+  },
+  {
+    "student_id": "STU1020",
+    "name": "James Smith",
+    "grade_level": "11th",
+    "math_score": 64,
+    "science_score": 68,
+    "english_score": 99,
+    "attendance_rate": 0.8626
+  },
+  {
+    "student_id": "STU1021",
+    "name": "Olivia Johnson",
+    "grade_level": "9th",
+    "math_score": 63,
+    "science_score": 60,
+    "english_score": 87,
+    "attendance_rate": 0.9543
+  },
+  {
+    "student_id": "STU1022",
+    "name": "Noah Martinez",
+    "grade_level": "11th",
+    "math_score": 56,
+    "science_score": 71,
+    "english_score": 81,
+    "attendance_rate": 0.8289
+  },
+  {
+    "student_id": "STU1023",
+    "name": "Benjamin Miller",
+    "grade_level": "9th",
+    "math_score": 59,
+    "science_score": 90,
+    "english_score": 93,
+    "attendance_rate": 0.9523
+  },
+  {
+    "student_id": "STU1024",
+    "name": "Isabella Martinez",
+    "grade_level": "9th",
+    "math_score": 83,
+    "science_score": 92,
+    "english_score": 79,
+    "attendance_rate": 0.9807
+  },
+  {
+    "student_id": "STU1025",
+    "name": "Emma Rodriguez",
+    "grade_level": "11th",
+    "math_score": 84,
+    "science_score": 61,
+    "english_score": 68,
+    "attendance_rate": 0.9898
+  },
+  {
+    "student_id": "STU1026",
+    "name": "Sophia Miller",
+    "grade_level": "9th",
+    "math_score": 86,
+    "science_score": 88,
+    "english_score": 69,
+    "attendance_rate": 0.9729
+  },
+  {
+    "student_id": "STU1027",
+    "name": "Oliver Martinez",
+    "grade_level": "10th",
+    "math_score": 59,
+    "science_score": 68,
+    "english_score": 82,
+    "attendance_rate": 0.9261
+  },
+  {
+    "student_id": "STU1028",
+    "name": "James Rodriguez",
+    "grade_level": "11th",
+    "math_score": 79,
+    "science_score": 98,
+    "english_score": 98,
+    "attendance_rate": 0.8701
+  },
+  {
+    "student_id": "STU1029",
+    "name": "Isabella Martinez",
+    "grade_level": "12th",
+    "math_score": 61,
+    "science_score": 67,
+    "english_score": 100,
+    "attendance_rate": 0.9425
+  },
+  {
+    "student_id": "STU1030",
+    "name": "Noah Miller",
+    "grade_level": "12th",
+    "math_score": 69,
+    "science_score": 86,
+    "english_score": 86,
+    "attendance_rate": 0.9607
+  },
+  {
+    "student_id": "STU1031",
+    "name": "Sophia Miller",
+    "grade_level": "9th",
+    "math_score": 75,
+    "science_score": 87,
+    "english_score": 85,
+    "attendance_rate": 0.9331
+  },
+  {
+    "student_id": "STU1032",
+    "name": "Oliver Williams",
+    "grade_level": "12th",
+    "math_score": 59,
+    "science_score": 65,
+    "english_score": 70,
+    "attendance_rate": 0.8358
+  },
+  {
+    "student_id": "STU1033",
+    "name": "Liam Garcia",
+    "grade_level": "10th",
+    "math_score": 90,
+    "science_score": 63,
+    "english_score": 100,
+    "attendance_rate": 0.9155
+  },
+  {
+    "student_id": "STU1034",
+    "name": "Mia Johnson",
+    "grade_level": "12th",
+    "math_score": 77,
+    "science_score": 87,
+    "english_score": 68,
+    "attendance_rate": 0.9846
+  },
+  {
+    "student_id": "STU1035",
+    "name": "James Jones",
+    "grade_level": "11th",
+    "math_score": 61,
+    "science_score": 96,
+    "english_score": 97,
+    "attendance_rate": 0.8562
+  },
+  {
+    "student_id": "STU1036",
+    "name": "Mia Davis",
+    "grade_level": "10th",
+    "math_score": 61,
+    "science_score": 82,
+    "english_score": 100,
+    "attendance_rate": 0.8825
+  },
+  {
+    "student_id": "STU1037",
+    "name": "Ava Martinez",
+    "grade_level": "10th",
+    "math_score": 82,
+    "science_score": 95,
+    "english_score": 100,
+    "attendance_rate": 0.8245
+  },
+  {
+    "student_id": "STU1038",
+    "name": "Mia Jones",
+    "grade_level": "9th",
+    "math_score": 66,
+    "science_score": 77,
+    "english_score": 84,
+    "attendance_rate": 0.9767
+  },
+  {
+    "student_id": "STU1039",
+    "name": "Oliver Smith",
+    "grade_level": "10th",
+    "math_score": 64,
+    "science_score": 96,
+    "english_score": 90,
+    "attendance_rate": 0.8318
+  },
+  {
+    "student_id": "STU1040",
+    "name": "Benjamin Smith",
+    "grade_level": "9th",
+    "math_score": 88,
+    "science_score": 73,
+    "english_score": 89,
+    "attendance_rate": 0.8914
+  },
+  {
+    "student_id": "STU1041",
+    "name": "Oliver Williams",
+    "grade_level": "11th",
+    "math_score": 74,
+    "science_score": 80,
+    "english_score": 70,
+    "attendance_rate": 0.9702
+  },
+  {
+    "student_id": "STU1042",
+    "name": "Olivia Williams",
+    "grade_level": "9th",
+    "math_score": 98,
+    "science_score": 65,
+    "english_score": 82,
+    "attendance_rate": 0.8953
+  },
+  {
+    "student_id": "STU1043",
+    "name": "Sophia Davis",
+    "grade_level": "12th",
+    "math_score": 81,
+    "science_score": 77,
+    "english_score": 78,
+    "attendance_rate": 0.9483
+  },
+  {
+    "student_id": "STU1044",
+    "name": "Liam Garcia",
+    "grade_level": "12th",
+    "math_score": 62,
+    "science_score": 78,
+    "english_score": 96,
+    "attendance_rate": 0.9096
+  },
+  {
+    "student_id": "STU1045",
+    "name": "Ava Smith",
+    "grade_level": "10th",
+    "math_score": 80,
+    "science_score": 98,
+    "english_score": 68,
+    "attendance_rate": 0.8213
+  },
+  {
+    "student_id": "STU1046",
+    "name": "Ava Brown",
+    "grade_level": "10th",
+    "math_score": 71,
+    "science_score": 78,
+    "english_score": 85,
+    "attendance_rate": 0.8404
+  },
+  {
+    "student_id": "STU1047",
+    "name": "Elijah Miller",
+    "grade_level": "10th",
+    "math_score": 63,
+    "science_score": 84,
+    "english_score": 99,
+    "attendance_rate": 0.9396
+  },
+  {
+    "student_id": "STU1048",
+    "name": "Isabella Rodriguez",
+    "grade_level": "11th",
+    "math_score": 59,
+    "science_score": 85,
+    "english_score": 67,
+    "attendance_rate": 0.8942
+  },
+  {
+    "student_id": "STU1049",
+    "name": "Elijah Johnson",
+    "grade_level": "11th",
+    "math_score": 91,
+    "science_score": 87,
+    "english_score": 90,
+    "attendance_rate": 0.9406
+  },
+  {
+    "student_id": "STU1050",
+    "name": "Sophia Jones",
+    "grade_level": "9th",
+    "math_score": 80,
+    "science_score": 61,
+    "english_score": 85,
+    "attendance_rate": 0.8492
+  },
+  {
+    "student_id": "STU1006",
+    "name": "Ava Garcia",
+    "grade_level": "9th",
+    "math_score": 84,
+    "science_score": 64,
+    "english_score": 74,
+    "attendance_rate": 0.9482
+  }
+]

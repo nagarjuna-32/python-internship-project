@@ -1,0 +1,11 @@
+.page{ padding-top:10px; }
+.field{ margin-bottom: 12px; }
+.label{ font-size:13px; color:var(--muted); margin-bottom:6px; }
+.error{ margin-top:6px; font-size:12px; color: rgba(239,68,68,.95); }
+.serverError{ margin-top: 10px; padding: 10px 12px; border-radius: 14px; border:1px solid rgba(239,68,68,.5); background: rgba(239,68,68,.12); color: rgba(239,68,68,.95); font-size: 13px; }
+.grid{ display:grid; grid-template-columns: 1fr 1fr; gap:12px; margin-top: 12px; }
+.full{ grid-column: 1 / -1; }
+@media (max-width: 900px){
+  .grid{ grid-template-columns: 1fr; }
+}
+

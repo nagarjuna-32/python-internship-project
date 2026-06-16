@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE configurations
+.idea/
+.vscode/
+
+# Local OS files
+.DS_Store
+Thumbs.db
+
+# Dynamically generated charts (keep directory, ignore contents)
+static/charts/*.png
+!static/charts/.gitkeep

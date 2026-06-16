@@ -1,0 +1,31 @@
+Date,Product,Category,Region,Revenue,Quantity,Rating
+2026-01-01,Quantum Laptop,Electronics,North,1200.0,1,4.5
+2026-01-02,Eco Water Bottle,Home & Kitchen,South,25.0,2,4.8
+2026-01-03,Wireless Mouse,Electronics,East,45.0,3,4.2
+2026-01-04,Ergonomic Chair,Office Supplies,West,299.0,1,4.7
+2026-01-05,USB-C Hub,Electronics,North,35.0,5,4.0
+2026-01-06,Bluetooth Speaker,Electronics,South,89.0,2,4.6
+2026-01-07,Ceramic Coffee Mug,Home & Kitchen,East,15.0,4,4.1
+2026-01-08,Led Desk Lamp,Office Supplies,West,45.0,2,4.3
+2026-01-09,Leather Journal,Office Supplies,North,22.0,3,
+2026-01-10,Noise Cancelling Headphones,Electronics,South,199.0,1,4.9
+2026-01-11,Stainless Steel Flask,Home & Kitchen,East,28.0,2,4.4
+2026-01-12,Mechanical Keyboard,Electronics,West,120.0,1,4.7
+2026-01-13,Standing Desk,Office Supplies,North,450.0,1,4.8
+2026-01-14,Yoga Mat,Home & Kitchen,South,40.0,3,4.3
+2026-01-15,Drafting Pen Set,Office Supplies,East,,2,4.2
+2026-01-16,External SSD 1TB,Electronics,West,149.0,1,4.8
+2026-01-17,Silicon Spatula Set,Home & Kitchen,North,18.0,3,4.0
+2026-01-18,Double-Walled Glasses,Home & Kitchen,South,30.0,4,4.5
+2026-01-19,Dual Monitor Stand,Office Supplies,East,89.0,1,4.4
+2026-01-20,Gaming Controller,Electronics,West,59.0,2,4.6
+2026-01-21,Weekly Planner,Office Supplies,North,12.0,,4.2
+2026-01-22,Bamboo Cutting Board,Home & Kitchen,South,24.0,2,4.3
+2026-01-23,Smart Fitness Band,Electronics,East,79.0,1,3.9
+2026-01-24,Filing Cabinet,Office Supplies,West,180.0,1,4.5
+2026-01-25,Kitchen Scale,Home & Kitchen,North,19.0,2,4.6
+2026-01-26,4K Webcam,Electronics,South,99.0,1,
+2026-01-27,Non-Stick Frypan,Home & Kitchen,East,45.0,1,4.1
+2026-01-28,Sticky Notes Bulk,Office Supplies,West,8.0,10,4.0
+2026-01-29,HDMI Cable 2m,Electronics,North,15.0,3,4.3
+2026-01-30,Memory Foam Seat Cushion,Office Supplies,South,35.0,2,4.5
